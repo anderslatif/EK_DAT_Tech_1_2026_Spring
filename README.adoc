@@ -286,10 +286,11 @@ a|
 Adding a database to a Spring Project.
 
 Setting up a database in Azure.
-a|
-Can set up a database in Azure and connect it to an Azure App Service project with a guide.
 
+Can set up a database in Azure and connect it to an Azure App Service project with a guide.
 a|
+
+
 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
