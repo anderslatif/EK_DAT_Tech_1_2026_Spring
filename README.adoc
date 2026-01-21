@@ -44,16 +44,16 @@ Can perform basic Git operations: `clone`, `add`, `commit`, `push`, `pull`.
 Understands the basic hardware components of a computer system and the Von Neumann architecture.
 
 a|
-**Important**
+*Important!*:
 link:00._Course_Material/01._Assignments/01._Terminal_Git/course_preparation_work.md[Course Preparation Work]
 
 
 https://classroom.github.com/a/ihU6VrZ9[Command Line Exercises]
 
 Watch from #3 - #7 over the next few weeks:
-https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=4[YouTube - Crash Course Computer Science]
+https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=3[YouTube - Crash Course Computer Science]
 
-link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_Tara.pdf[Project-til-Github (Tara)]
+// link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_Tara.pdf[Project-til-Github (Tara)]
 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -207,8 +207,8 @@ a|
 // link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/01._mvn_and_javac.md[MVN and javac]
 MVN and javac
 
-// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/03._Advanced_Git.md[Advanced Git]
-Advanced Git
+// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/03._Advanced_Git.md[Advanced git]
+Advanced git
 
 // link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/04._Git_Branching.md[Git Branching]
 Git Branching
@@ -363,5 +363,5 @@ Project (Anders will introduce the project during class)
 a|
 Project
 
-|===
 
+|===
