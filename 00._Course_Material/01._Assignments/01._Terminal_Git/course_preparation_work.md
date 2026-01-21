@@ -52,13 +52,14 @@ cd ..
 
 While you do not need to install these right away, you can get them out of the way if you can find the time.
 
-The following is needed by week 5.
+The following is needed by week 5:
 
 [Install MySQL and DataGrip](./install_mysql_datagrip.md)
 
-The following is needed by week 7.
+The following is needed by week 7:
 
 [Azure for Students](./azure_for_students/azure_for_students.md)
+
 ---
 
 ## Setup SSH Keys for GitHub
