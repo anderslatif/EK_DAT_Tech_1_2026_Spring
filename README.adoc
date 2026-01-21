@@ -6,6 +6,7 @@ link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the 
 
 == Semester Plan
 
+[small]
 The semester plan is subject to modifications during the semester.
 
 **Taught on**: Tuesday
