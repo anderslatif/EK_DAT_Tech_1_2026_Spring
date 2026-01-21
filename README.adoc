@@ -146,6 +146,14 @@ a|
 | 4
 | Feb. 10th
 
+a| Project
+a| Project
+a|
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 5
+| Feb. 24th
 a|
 // link:00._Course_Material/02._Slides/03._Databases_SQL_II/01._Primary_Keys.md[Primary Keys]
 Primary Keys
@@ -193,9 +201,8 @@ Mandatory I: Tech Company
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
-| 5
-| Feb. 24th
-
+| 6
+| March 3rd
 a|
 // link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/01._mvn_and_javac.md[MVN and javac]
 MVN and javac
@@ -242,8 +249,8 @@ a|
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
-| 6
-| March 3rd
+| 7
+| March 10th
 a|
 // link:00._Course_Material/02._Slides/06._Azure_Web_App_Deployment/01._setup_spring_project.md[Setup Spring Project]
 Setup Spring Project
@@ -258,36 +265,13 @@ Can deploy a web application to Azure App Service.
 
 Understands the flow from pushing, GitHub Actions running, building the project and deployment to Azure.
 a| 
-Deploy your exam project to Azure App Service with your group.
+
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-| 7
-| March 10th
-
-a|
-// link:00._Course_Material/02._Slides/07._Database_Deployment/01._add_database_to_spring_project.md[Add database to Spring project]
-Add database to Spring project
-
-// link:00._Course_Material/02._Slides/07._Database_Deployment/02._MySQL_database_deployment_Azure.pdf[MySQL database deployment]
-MySQL database deployment
-
-// link:00._Course_Material/02._Slides/07._Database_Deployment/03._Database_deployment.pdf[Database deployment]
-Database deployment
-
-a|
-Adding a database to a Spring Project.
-
-Setting up a database in Azure.
-a|
-Can set up a database in Azure and connect it to an Azure App Service project with a guide.
-
-// ------------------------------------------------------------------------------------------------------------------------------------------------
 
 | 8
 | March 17th
-
 a|
 // link:00._Course_Material/02._Slides/07._Database_Deployment/01._add_database_to_spring_project.md[Add database to Spring project]
 Add database to Spring project
@@ -304,13 +288,14 @@ Adding a database to a Spring Project.
 Setting up a database in Azure.
 a|
 Can set up a database in Azure and connect it to an Azure App Service project with a guide.
+
+a|
 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
 | 9
 | March 24th
-
 a|
 // link:00._Course_Material/02._Slides/08_Database_Transactions/01._Concurrency_Problems_in_Databases.md[Concurrency Problems in Databases]
 Concurrency Problems in Databases
@@ -372,9 +357,10 @@ a|
 
 | 11
 | April 7th
-a|
-Project
+a| 
+Project (Anders will introduce the project during class)
 a|
 Project
 
 |===
+
