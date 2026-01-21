@@ -1,0 +1,380 @@
+= Tech 1 Semester Plan
+
+== About the course
+
+link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the course]
+
+== Semester Plan
+
+The semester plan is subject to modifications during the semester.
+
+**Taught on**: Tuesday
+
+[width="100%",cols="15%,7%,23%,30%,25%",options="header",]
+|===
+| Title | Date | Description | Learning Goals | Resources and Activities
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 1
+| Jan. 27th
+
+a|
+link:00._Course_Material/02._Slides/01._Terminal_Git/01._Introduction.md[Introduction]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/02._File_Systems.md[File Systems]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/03._Terminal_Commands.md[Terminal Commands]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/04._Git_vs._GitHub.md[Git vs. GitHub]
+
+link:00._Course_Material/02._Slides/01._Terminal_Git/05._Hands-on_git.md[Hands-on git]
+
+a|
+Can navigate the terminal: `ls`, `cd`, `whoami`, `pwd`.
+
+Can create, delete files / folders: `mkdir`, `rm`, `cp`, `mv`, `touch`, `nano`.
+
+Can use the following basic terminal commands: `cat`, `wc`, `uniq`, `sort`.
+
+Can create a new repository in your prefered Git provider.
+
+Can perform basic Git operations: `clone`, `add`, `commit`, `push`, `pull`.
+
+Understands the basic hardware components of a computer system and the Von Neumann architecture.
+
+a|
+**Important**
+link:00._Course_Material/01._Assignments/01._Terminal_Git/course_preparation_work.md[Course Preparation Work]
+
+
+https://classroom.github.com/a/ihU6VrZ9[Command Line Exercises]
+
+Watch from #3 - #7 over the next few weeks:
+https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=4[YouTube - Crash Course Computer Science]
+
+link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_Tara.pdf[Project-til-Github (Tara)]
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 2
+| Feb. 3rd
+
+a|
+// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/01._Hardware.md[Hardware]
+Hardware
+
+// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/02._Software.md[Software]
+Software
+
+// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/03._Number_Representations.md[Number Representations]
+Number Representations
+
+// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/04._Encoding.md[Encoding]
+Encoding
+
+a|
+Can list the main hardware components of a computer and their functions.
+
+Can explain how computers work, starting from hardware all the way to software.
+
+Can talk about processes in operating systems.
+
+Can talk about different number representations such as:
+
+* Binary
+* Hexadecimal
+* Decimal
+
+Can bring up real-world use cases for different number representations.
+
+Can explain different charsets like ASCII and Unicode and how they differ.
+a|
+https://www.youtube.com/watch?v=VfcRxtBKI54[YouTube - Types of Databases]
+
+https://www.markdowntutorial.com/
+
+// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/number_conversion_programs.md[Number Conversion Programs]
+
+// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/Numeric_Systems__Exercises.pdf[Numeric Systems - Exercises]
+
+
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 3
+| Feb. 10th
+
+a|
+// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/01._Git_Refresher_Markdown.md[Git Refresher Markdown]
+Git Refresher / Markdown
+
+// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/02._Database_Paradigms.md[Database Paradigms]
+Database Paradigms
+
+// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/03._SQL.md[SQL]
+SQL
+
+// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/04._DDL.md[DDL]
+DDL
+
+// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/05._DML.md[DML]
+DML
+
+a|
+Knows about different types of databases and their use cases.
+
+Can setup a new MySQL database and connect to it.
+
+Can create DDL statements to create tables. 
+
+Can create DML (`SELECT`, `INSERT`) statements.
+
+Can use `WHERE` clause to filter results.
+
+a| 
+// link:00._Course_Material/01._Assignments/02._Databases_Introduction_to_SQL/countries_dml.md[Countries (DML)]
+
+// https://classroom.github.com/a/ogV4ZE_-[Countries (DML)]
+
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 4
+| Feb. 10th
+
+a|
+// link:00._Course_Material/02._Slides/03._Databases_SQL_II/01._Primary_Keys.md[Primary Keys]
+Primary Keys
+
+// link:00._Course_Material/02._Slides/03._Databases_SQL_II/02._SELECT_ORDER_GROUP_LIMIT_Aggregate_Functions.md[SELECT ORDER GROUP  LIMIT Aggregate Functions]
+SELECT ORDER GROUP LIMIT Aggregate Functions
+
+// link:00._Course_Material/02._Slides/03._Databases_SQL_II/03._Foreign_Keys.md[Foreign Keys]
+Foreign Keys
+
+// link:00._Course_Material/02._Slides/03._Databases_SQL_II/04._SELECT_JOIN.md[SELECT JOIN]
+SELECT JOIN
+
+// link:00._Course_Material/02._Slides/03._Databases_SQL_II/05._UPDATE_DELETE.md[UPDATE DELETE]
+UPDATE DELETE
+
+// link:00._Course_Material/02._Slides/03._Databases_SQL_II/06._PRs_and_Forks.md[PRs and Forks]
+PRs and Forks
+
+a|
+Can define Primary Keys.
+
+Understands how Foreign Keys work.
+
+In `SELECT` statements, can use (with moderate help):
+
+* `LIMIT`, `ORDER BY`, `GROUP BY` 
+* aggregate functions like `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`
+* pattern matching with `LIKE` and wildcards
+* `JOIN` to combine data from multiple tables
+
+Can create inner, left and right joins after looking up the syntax.
+
+Can create DDL statements to create tables with constraints: `PRIMARY KEY`, `AUTO_INCREMENT`, `FOREIGN KEY`, `UNIQUE`, `NOT NULL`.
+
+Can create DML (`UPDATE`, `DELETE`) statements.
+
+Can create a pull request.
+
+a| 
+// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/work_with_joins.md[Work With Joins]
+
+// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Mandatory I: Tech Company]
+Mandatory I: Tech Company
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 5
+| Feb. 24th
+
+a|
+// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/01._mvn_and_javac.md[MVN and javac]
+MVN and javac
+
+// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/03._Advanced_Git.md[Advanced Git]
+Advanced Git
+
+// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/04._Git_Branching.md[Git Branching]
+Git Branching
+
+// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/05._YAML.md[YAML]
+YAML
+
+// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/06._GitHub_Actions.md[GitHub Actions]
+GitHub Actions
+
+a|
+
+Understands different Git workflows such as GitHub Flow.
+
+Can solve a merge conflict.
+
+Can write YAML.
+
+Understands what GitHub Actions are and can breakdown workflows into runners, jobs, and steps.
+
+Can give use cases for GitHub Actions.
+
+
+a| 
+// https://anderslatif.github.io/yaml_tutorial/
+
+// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/GitHub_Actions_1.pdf[GitHub Actions 1]
+
+// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Pull_request_exercise_1.pdf[Pull Request Exercise 1]
+
+// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Pull_request_exercise_2_merge_conflict.pdf[Pull Request Exercise 2: Merge Conflict]
+
+// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Visualizing_GitHub_Flow.pdf[Optional: Visualizing GitHub Flow]
+
+// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/GitHub_Actions_Hello_world_demo.pdf[GitHub Actions Hello world demo]
+
+// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/Hello_GitHub_Actions_Demo_v2.pdf[Hello GitHub Actions Demo v2]
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 6
+| March 3rd
+a|
+// link:00._Course_Material/02._Slides/06._Azure_Web_App_Deployment/01._setup_spring_project.md[Setup Spring Project]
+Setup Spring Project
+
+// link:00._Course_Material/02._Slides/06._Azure_Web_App_Deployment/02._Cloud_computing__Azure_Web_App.pdf[Cloud computing - Azure Web App]
+Cloud computing - Azure Web App
+
+a|
+Understands different cloud service models: IaaS, PaaS, SaaS.
+
+Can deploy a web application to Azure App Service.
+
+Understands the flow from pushing, GitHub Actions running, building the project and deployment to Azure.
+a| 
+Deploy your exam project to Azure App Service with your group.
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+| 7
+| March 10th
+
+a|
+// link:00._Course_Material/02._Slides/07._Database_Deployment/01._add_database_to_spring_project.md[Add database to Spring project]
+Add database to Spring project
+
+// link:00._Course_Material/02._Slides/07._Database_Deployment/02._MySQL_database_deployment_Azure.pdf[MySQL database deployment]
+MySQL database deployment
+
+// link:00._Course_Material/02._Slides/07._Database_Deployment/03._Database_deployment.pdf[Database deployment]
+Database deployment
+
+a|
+Adding a database to a Spring Project.
+
+Setting up a database in Azure.
+a|
+Can set up a database in Azure and connect it to an Azure App Service project with a guide.
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 8
+| March 17th
+
+a|
+// link:00._Course_Material/02._Slides/07._Database_Deployment/01._add_database_to_spring_project.md[Add database to Spring project]
+Add database to Spring project
+
+// link:00._Course_Material/02._Slides/07._Database_Deployment/02._MySQL_database_deployment_Azure.pdf[MySQL database deployment]
+MySQL database deployment
+
+// link:00._Course_Material/02._Slides/07._Database_Deployment/03._Database_deployment.pdf[Database deployment]
+Database deployment
+
+a|
+Adding a database to a Spring Project.
+
+Setting up a database in Azure.
+a|
+Can set up a database in Azure and connect it to an Azure App Service project with a guide.
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 9
+| March 24th
+
+a|
+// link:00._Course_Material/02._Slides/08_Database_Transactions/01._Concurrency_Problems_in_Databases.md[Concurrency Problems in Databases]
+Concurrency Problems in Databases
+
+// link:00._Course_Material/02._Slides/09._Threads/01._Threads.md[Threads]
+Threads
+
+// link:00._Course_Material/02._Slides/09._Threads/02._Java_Threads_Basics.md[Java Threads: Basics]
+Java Threads: Basics
+
+// link:00._Course_Material/02._Slides/09._Threads/03._Java_Threads_Priority.md[Java Threads: Priority]
+Java Threads: Priority
+
+// link:00._Course_Material/02._Slides/09._Threads/04._Java_Threads_Locks.md[Java Threads: Locks]
+Java Threads: Locks
+
+// link:00._Course_Material/02._Slides/09._Threads/05._Java_Threads_Counting.md[Java Threads: Counting]
+Java Threads: Counting
+
+// link:00._Course_Material/02._Slides/09._Threads/06._Java_Threads_Deadlock.md[Java Threads: Deadlock]
+Java Threads: Deadlock
+a|
+// Is able to go through scenarios that can cause concurrency problems in databases.
+
+// Can explain what ACID is and why it solves concurrency problems for databases.
+
+// Knows how to define transactions in SQL and JDBC.
+
+// Can recount the two basic ways to create threads in Java: extending `Thread` class and implementing `Runnable` interface.
+
+// Can give examples of concurrency problems in a programming language like Java and how to solve them using locks, synchronization and atomic structures.
+
+a|
+// Do this hands-on:
+
+// link:00._Course_Material/02._Slides/08_Database_Transactions/02._Transaction_MySQL_JDBC.md[Transaction MySQL JDBC]
+
+// And make sure you understand this:
+
+// https://github.com/anderslatif/EK_Java_Threads
+
+// link:00._Course_Material/01._Assignments/08._Final/mandatory_II_learning_goals.md[Mandatory II - Learning Goals]
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+| 10
+| March 31st
+
+a|
+Holiday
+
+a|
+Holiday
+
+a|
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 11
+| April 7th
+a|
+Project
+a|
+Project
+
+|===
