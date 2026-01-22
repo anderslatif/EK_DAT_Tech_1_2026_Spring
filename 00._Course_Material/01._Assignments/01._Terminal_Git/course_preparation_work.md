@@ -60,13 +60,3 @@ The following is needed by week 7:
 
 [Azure for Students](./azure_for_students/azure_for_students.md)
 
----
-
-## Setup SSH Keys for GitHub
-
-This will make our lives easier when we need to push code to GitHub.
-
-This is not easy to do and we will do this together in class.
-
-It is being linked to here in case you miss it.
-

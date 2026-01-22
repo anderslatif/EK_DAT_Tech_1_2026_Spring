@@ -49,12 +49,12 @@ a|
 *Important!*:
 link:00._Course_Material/01._Assignments/01._Terminal_Git/course_preparation_work.md[Course Preparation Work]
 
-// link:00._Course_Material/01._Assignments/01._Terminal_Git/command_line_exercises.md[Command Line Exercises]
+link:00._Course_Material/01._Assignments/01._Terminal_Git/command_line_exercises.md[Command Line Exercises]
 
 Watch from #3 - #7 over the next few weeks:
 https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=3[YouTube - Crash Course Computer Science]
 
-// link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_Tara.pdf[Project-til-Github (Tara)]
+link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_Tara.pdf[Project-til-Github (Tara)]
 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
