@@ -2,7 +2,7 @@
 
 Solve the basic Javascript exercises given in the repository.
 
-**Hand-in**: Submit via GitHub Classroom: https://classroom.github.com/a/_wH16-H7
+**Hand-in**: Submit via GitHub Classroom: https://classroom.github.com/a/0EijYl1S
 
 **Deadline**: Check the deadline in GitHub Classroom. Especially the time. The deadline is the cutoff.
 
