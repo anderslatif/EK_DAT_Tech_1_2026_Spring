@@ -4,6 +4,8 @@ Solve the basic Javascript exercises given in the repository.
 
 **Hand-in**: Submit via GitHub Classroom: https://classroom.github.com/a/0EijYl1S
 
+Try the above method first. There is a bug in GitHub that means that some of you can't hand in. In that case, hand it in the Teams room under Assignments.
+
 **Deadline**: Check the deadline in GitHub Classroom. Especially the time. The deadline is the cutoff.
 
 ---
