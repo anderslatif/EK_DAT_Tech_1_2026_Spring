@@ -20,12 +20,14 @@ You will find the instructions in the README after you have accepted the assignm
 
 1. Accept the assignment in Github Classroom (link above)
 
-2. Clone the repository to your local machine
+2. You will receive an email. Click on the button that says `View invitation`.
 
-3. Solve the exercises in the files given
+3. Clone the repository to your local machine
 
-4. Commit and push your changes to your forked repository
+4. Solve the exercises in the files given
 
-5. This will automatically submit your assignment
+5. Commit and push your changes to your forked repository
+
+6. This will automatically submit your assignment
 
 
