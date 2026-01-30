@@ -63,17 +63,20 @@ link:00._Course_Material/01._Assignments/01._Terminal_Git/Projekt-til-Github_Tar
 | Feb. 3rd
 
 a|
-// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/01._Hardware.md[Hardware]
-Hardware
+link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/01._Git_Refresher_Markdown.md[Git Refresher]
+// Git Refresher
 
-// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/02._Software.md[Software]
-Software
+link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/02._Hardware.md[Hardware]
+// Hardware
 
-// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/03._Number_Representations.md[Number Representations]
-Number Representations
+link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/03._Software.md[Software]
+// Software
 
-// link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/04._Encoding.md[Encoding]
-Encoding
+link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/04._Number_Representations.md[Number Representations]
+// Number Representations
+
+link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations_Encoding/05._Encoding.md[Encoding]
+// Encoding
 
 a|
 Can list the main hardware components of a computer and their functions.
@@ -96,9 +99,9 @@ https://www.youtube.com/watch?v=VfcRxtBKI54[YouTube - Types of Databases]
 
 https://www.markdowntutorial.com/
 
-// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/number_conversion_programs.md[Number Conversion Programs]
+link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/number_conversion_programs.md[Number Conversion Programs]
 
-// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/Numeric_Systems__Exercises.pdf[Numeric Systems - Exercises]
+link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/Numeric_Systems__Exercises.pdf[Numeric Systems - Exercises]
 
 
 
