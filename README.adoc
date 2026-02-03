@@ -43,8 +43,6 @@ Can create a new repository in your prefered Git provider.
 
 Can perform basic Git operations: `clone`, `add`, `commit`, `push`, `pull`.
 
-Understands the basic hardware components of a computer system and the Von Neumann architecture.
-
 a|
 *Important!*:
 link:00._Course_Material/01._Assignments/01._Terminal_Git/course_preparation_work.md[Course Preparation Work]
@@ -79,7 +77,7 @@ link:00._Course_Material/02._Slides/02._Hardware_Software_Number_Representations
 // Encoding
 
 a|
-Can list the main hardware components of a computer and their functions.
+Can list the main hardware components of a computer, their functions and the Von Neumann architecture.
 
 Can explain how computers work, starting from hardware all the way to software.
 
