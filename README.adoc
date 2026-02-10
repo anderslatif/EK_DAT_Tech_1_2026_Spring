@@ -12,7 +12,7 @@ The semester plan is subject to modifications during the semester.
 
 [width="100%",cols="15%,7%,23%,30%,25%",options="header",]
 |===
-| Title | Date | Description | Learning Goals | Resources and Activities
+| Title | Date | Description | Learning Goals | Resources and Activities (After class)
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -110,20 +110,17 @@ link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representa
 | Feb. 10th
 
 a|
-// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/01._Git_Refresher_Markdown.md[Git Refresher Markdown]
-Git Refresher / Markdown
+link:00._Course_Material/02._Slides/03._Databases_Introduction_to_SQL/01._Database_Paradigms.md[Database Paradigms]
+// Database Paradigms
 
-// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/02._Database_Paradigms.md[Database Paradigms]
-Database Paradigms
+link:00._Course_Material/02._Slides/03._Databases_Introduction_to_SQL/02._SQL.md[SQL]
+// SQL
 
-// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/03._SQL.md[SQL]
-SQL
+link:00._Course_Material/02._Slides/03._Databases_Introduction_to_SQL/03._DDL.md[DDL]
+// DDL
 
-// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/04._DDL.md[DDL]
-DDL
-
-// link:00._Course_Material/02._Slides/02._Databases_Introduction_to_SQL/05._DML.md[DML]
-DML
+link:00._Course_Material/02._Slides/03._Databases_Introduction_to_SQL/04._DML.md[DML]
+// DML
 
 a|
 Knows about different types of databases and their use cases.
@@ -137,11 +134,9 @@ Can create DML (`SELECT`, `INSERT`) statements.
 Can use `WHERE` clause to filter results.
 
 a| 
-// link:00._Course_Material/01._Assignments/02._Databases_Introduction_to_SQL/countries_dml.md[Countries (DML)]
+link:00._Course_Material/01._Assignments/03._Databases_Introduction_to_SQL/countries_dml.md[Countries (DML)]
 
-// https://classroom.github.com/a/ogV4ZE_-[Countries (DML)]
-
-
+02._Hardware_Software_Number_Representations_Encoding
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
