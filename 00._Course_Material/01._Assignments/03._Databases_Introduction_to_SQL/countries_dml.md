@@ -4,7 +4,7 @@
 
 https://classroom.github.com/a/koXYhH_f
 
-Write the answers to each question as the hand-in.
+Write the answers to each question in a document named `solution.md` as the hand-in.
 
 ---
 
