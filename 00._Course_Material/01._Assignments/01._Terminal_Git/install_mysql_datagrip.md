@@ -10,7 +10,9 @@ MySQL is the database that we will use in Tech 1, programming and your 1st year 
 
 **Important**: Make sure to remember your root password! This is crucial.
 
-**Success criteria**: Open your terminal and execute the command `mysql --version`. 
+**Success criteria**: Open your terminal and execute the command: `mysql --version`.
+
+Alternatively, if you are on Windows see if you can open the program `MySQL Shell`.
 
 **Second success criteria**: You should be able to connect to the MySQL server using the command `mysql -u root -p`.
 
