@@ -136,7 +136,6 @@ Can use `WHERE` clause to filter results.
 a| 
 link:00._Course_Material/01._Assignments/03._Databases_Introduction_to_SQL/countries_dml.md[Countries (DML)]
 
-02._Hardware_Software_Number_Representations_Encoding
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
