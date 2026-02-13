@@ -140,7 +140,7 @@ link:00._Course_Material/01._Assignments/03._Databases_Introduction_to_SQL/count
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
 | 4
-| Feb. 10th
+| Feb. 17th
 
 a| Project
 a| Project
