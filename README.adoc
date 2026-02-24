@@ -8,13 +8,16 @@ link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the 
 
 link:00._Course_Material/01._Assignments/00._Mandatories/tech_company/tech_company.md[Mandatory I - Tech]
 
+== Course Preparation
+
+link:00._Course_Material/01._Assignments/01._Terminal_Git/course_preparation_work.md[Course Preperation]
+
 
 == Semester Plan
 
 The semester plan is subject to modifications during the semester.
 
 **Taught on**: Tuesday
-
 
 
 [width="100%",cols="15%,7%,23%,30%,25%",options="header",]
