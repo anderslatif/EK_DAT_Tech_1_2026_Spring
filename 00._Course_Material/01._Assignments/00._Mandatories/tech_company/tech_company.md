@@ -2,7 +2,9 @@
 
 **Deadline**: This is mandatory I and the deadline is in Teams. Mandatories are prerequisites to go to the exam.
 
-**Hand-in**: Teams, hand in a link to the SQL file in any Git repository.
+**Hand-in**: `itslearning`, hand in a link to the SQL file in any Git repository. There will be peer assessment after the deadline. 
+
+Late hand-ins are only accepted the Assignment channel in the Teams room.
 
 Solve these exercises to your best ability.
 

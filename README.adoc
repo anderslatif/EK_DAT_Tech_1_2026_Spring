@@ -4,14 +4,18 @@
 
 link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the course]
 
+=== Mandatories
+
+link:00._Course_Material/01._Assignments/00._Mandatories/tech_company/tech_company.md[Mandatory I - Tech]
+
+
 == Semester Plan
 
 The semester plan is subject to modifications during the semester.
 
 **Taught on**: Tuesday
 
-*Important!*:
-link:00._Course_Material/01._Assignments/01._Terminal_Git/course_preparation_work.md[Course Preparation Work]
+
 
 [width="100%",cols="15%,7%,23%,30%,25%",options="header",]
 |===
@@ -152,23 +156,23 @@ a|
 | 5
 | Feb. 24th
 a|
-// link:00._Course_Material/02._Slides/03._Databases_SQL_II/01._Primary_Keys.md[Primary Keys]
-Primary Keys
+link:00._Course_Material/02._Slides/05._Databases_SQL_II/01._Primary_Keys.md[Primary Keys]
+// Primary Keys
 
-// link:00._Course_Material/02._Slides/03._Databases_SQL_II/02._SELECT_ORDER_GROUP_LIMIT_Aggregate_Functions.md[SELECT ORDER GROUP  LIMIT Aggregate Functions]
-SELECT ORDER GROUP LIMIT Aggregate Functions
+link:00._Course_Material/02._Slides/05._Databases_SQL_II/02._SELECT_ORDER_GROUP_LIMIT_Aggregate_Functions.md[SELECT ORDER GROUP  LIMIT Aggregate Functions]
+// SELECT ORDER GROUP LIMIT Aggregate Functions
 
-// link:00._Course_Material/02._Slides/03._Databases_SQL_II/03._Foreign_Keys.md[Foreign Keys]
-Foreign Keys
+link:00._Course_Material/02._Slides/05._Databases_SQL_II/03._Foreign_Keys.md[Foreign Keys]
+// Foreign Keys
 
-// link:00._Course_Material/02._Slides/03._Databases_SQL_II/04._SELECT_JOIN.md[SELECT JOIN]
-SELECT JOIN
+link:00._Course_Material/02._Slides/05._Databases_SQL_II/04._SELECT_JOIN.md[SELECT JOIN]
+// SELECT JOIN
 
-// link:00._Course_Material/02._Slides/03._Databases_SQL_II/05._UPDATE_DELETE.md[UPDATE DELETE]
-UPDATE DELETE
+link:00._Course_Material/02._Slides/05._Databases_SQL_II/05._UPDATE_DELETE.md[UPDATE DELETE]
+// UPDATE DELETE
 
-// link:00._Course_Material/02._Slides/03._Databases_SQL_II/06._PRs_and_Forks.md[PRs and Forks]
-PRs and Forks
+link:00._Course_Material/02._Slides/05._Databases_SQL_II/06._PRs_and_Forks.md[PRs and Forks]
+// PRs and Forks
 
 a|
 Can define Primary Keys.
@@ -191,10 +195,10 @@ Can create DML (`UPDATE`, `DELETE`) statements.
 Can create a pull request.
 
 a| 
-// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/work_with_joins.md[Work With Joins]
+link:00._Course_Material/01._Assignments/05._Databases_SQL_II/work_with_joins.md[Work With Joins]
 
-// link:00._Course_Material/01._Assignments/03._Databases_SQL_II/tech_company/tech_company.md[Mandatory I: Tech Company]
-Mandatory I: Tech Company
+link:00._Course_Material/01._Assignments/00._Mandatories/tech_company/tech_company.md[Mandatory I: Tech Company]
+// Mandatory I: Tech Company
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
