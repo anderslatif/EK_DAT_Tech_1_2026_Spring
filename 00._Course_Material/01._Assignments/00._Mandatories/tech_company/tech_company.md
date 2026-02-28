@@ -114,7 +114,7 @@ If you in this task manage to solve one of the next assignments, then pat yourse
 
 2. List the number of employees.
 
-3. List the sum of all salaries (excluding commission).
+3. List the sum of all salaries (excluding commission which are bonuses added to the base salaries).
 
 4. List the average salary for employees in department 20.
 
