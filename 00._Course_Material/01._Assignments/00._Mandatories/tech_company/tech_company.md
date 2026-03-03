@@ -126,6 +126,8 @@ If you in this task manage to solve one of the next assignments, then pat yourse
 
 8. List total sum of salary and commission for all employees.
 
+9. Subquery time! Select the name and salary of employees whose salary is above average: `WHERE salary > (SELECT AVG(salary) FROM employees)`.
+
 --- 
 
 ## JOIN Assignments
@@ -175,8 +177,6 @@ SELECT employees.department_number, COUNT(employees.department_number) as number
 FROM employees
 GROUP BY department_number;
 ```
-
-9. Subquery time! Select the name and salary of employees whose salary is above average: `WHERE salary > (SELECT AVG(salary) FROM employees)`
 
 
 ---
