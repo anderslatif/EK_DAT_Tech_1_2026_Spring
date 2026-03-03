@@ -209,19 +209,19 @@ link:00._Course_Material/01._Assignments/00._Mandatories/tech_company/tech_compa
 | March 3rd
 a|
 // link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/01._mvn_and_javac.md[MVN and javac]
-MVN and javac
+// MVN and javac
 
-// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/03._Advanced_Git.md[Advanced git]
-Advanced git
+link:00._Course_Material/02._Slides/06._GitHub_Actions_I_Operating_systems/03._Advanced_Git.md[Advanced git]
+// Advanced git
 
-// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/04._Git_Branching.md[Git Branching]
-Git Branching
+link:00._Course_Material/02._Slides/06._GitHub_Actions_I_Operating_systems/04._Git_Branching.md[Git Branching]
+// Git Branching
 
-// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/05._YAML.md[YAML]
-YAML
+link:00._Course_Material/02._Slides/06._GitHub_Actions_I_Operating_systems/05._YAML.md[YAML]
+// YAML
 
-// link:00._Course_Material/02._Slides/04._GitHub_Actions_I_Operating_systems/06._GitHub_Actions.md[GitHub Actions]
-GitHub Actions
+link:00._Course_Material/02._Slides/06._GitHub_Actions_I_Operating_systems/06._GitHub_Actions.md[GitHub Actions]
+// GitHub Actions
 
 a|
 
@@ -237,19 +237,15 @@ Can give use cases for GitHub Actions.
 
 
 a| 
-// https://anderslatif.github.io/yaml_tutorial/
+https://anderslatif.github.io/yaml_tutorial/
 
-// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/GitHub_Actions_1.pdf[GitHub Actions 1]
+link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/GitHub_Actions_1.pdf[GitHub Actions 1]
 
-// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Pull_request_exercise_1.pdf[Pull Request Exercise 1]
+link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Pull_request_exercise_1.pdf[Pull Request Exercise 1]
 
-// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Pull_request_exercise_2_merge_conflict.pdf[Pull Request Exercise 2: Merge Conflict]
+link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Hello_GitHub_Actions_Demo_v2.pdf[Hello GitHub Actions Demo v2]
 
-// link:00._Course_Material/01._Assignments/04._GitHub_Actions_I/Visualizing_GitHub_Flow.pdf[Optional: Visualizing GitHub Flow]
-
-// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/GitHub_Actions_Hello_world_demo.pdf[GitHub Actions Hello world demo]
-
-// link:00._Course_Material/01._Assignments/02._Hardware_Software_Number_Representations_Encoding/Hello_GitHub_Actions_Demo_v2.pdf[Hello GitHub Actions Demo v2]
+link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Visualizing_GitHub_Flow.pdf[Optional: Visualizing GitHub Flow]
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -294,6 +290,7 @@ Setting up a database in Azure.
 Can set up a database in Azure and connect it to an Azure App Service project with a guide.
 a|
 
+// link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Pull_request_exercise_2_merge_conflict.pdf[Pull Request Exercise 2: Merge Conflict]
 
 
 
