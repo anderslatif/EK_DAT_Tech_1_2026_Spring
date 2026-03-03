@@ -239,11 +239,9 @@ Can give use cases for GitHub Actions.
 a| 
 https://anderslatif.github.io/yaml_tutorial/
 
-link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/GitHub_Actions_1.pdf[GitHub Actions 1]
+link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/GitHub_Actions_1.pdf[Resource: GitHub Actions 1]
 
 link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Pull_request_exercise_1.pdf[Pull Request Exercise 1]
-
-link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Hello_GitHub_Actions_Demo_v2.pdf[Hello GitHub Actions Demo v2]
 
 link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Visualizing_GitHub_Flow.pdf[Optional: Visualizing GitHub Flow]
 
@@ -266,6 +264,9 @@ Can deploy a web application to Azure App Service.
 Understands the flow from pushing, GitHub Actions running, building the project and deployment to Azure.
 a| 
 
+// Pull Request 2
+
+// link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Hello_GitHub_Actions_Demo_v2.pdf[Hello GitHub Actions Demo v2]
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
