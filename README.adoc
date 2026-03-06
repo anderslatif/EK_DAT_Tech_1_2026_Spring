@@ -250,11 +250,11 @@ link:00._Course_Material/01._Assignments/06._GitHub_Actions_I/Visualizing_GitHub
 | 7
 | March 10th
 a|
-// link:00._Course_Material/02._Slides/06._Azure_Web_App_Deployment/01._setup_spring_project.md[Setup Spring Project]
-Setup Spring Project
+link:00._Course_Material/02._Slides/07._Azure_Web_App_Deployment//01._setup_spring_project.md[Setup Spring Project]
+// Setup Spring Project
 
-// link:00._Course_Material/02._Slides/06._Azure_Web_App_Deployment/02._Cloud_computing__Azure_Web_App.pdf[Cloud computing - Azure Web App]
-Cloud computing - Azure Web App
+link:00._Course_Material/02._Slides/07._Azure_Web_App_Deployment//02._Cloud_computing__Azure_Web_App.pdf[Cloud computing - Azure Web App]
+// Cloud computing - Azure Web App
 
 a|
 Understands different cloud service models: IaaS, PaaS, SaaS.
