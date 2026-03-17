@@ -277,14 +277,14 @@ link:00._Course_Material/01._Assignments/07._Azure_Web_App_Deployment/Hello_GitH
 | 8
 | March 17th
 a|
-// link:00._Course_Material/02._Slides/07._Database_Deployment/01._add_database_to_spring_project.md[Add database to Spring project]
-Add database to Spring project
+link:00._Course_Material/02._Slides/08._Database_Deployment/01._add_database_to_spring_project.md[Add database to Spring project]
+// Add database to Spring project
 
-// link:00._Course_Material/02._Slides/07._Database_Deployment/02._MySQL_database_deployment_Azure.pdf[MySQL database deployment]
-MySQL database deployment
+link:00._Course_Material/02._Slides/08._Database_Deployment/02._MySQL_database_deployment_Azure.pdf[MySQL database deployment]
+// MySQL database deployment
 
-// link:00._Course_Material/02._Slides/07._Database_Deployment/03._Database_deployment.pdf[Database deployment]
-Database deployment
+link:00._Course_Material/02._Slides/08._Database_Deployment/03._Database_deployment.pdf[Database deployment]
+// Database deployment
 
 a|
 Adding a database to a Spring Project.
