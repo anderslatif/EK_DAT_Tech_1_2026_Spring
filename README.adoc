@@ -311,7 +311,10 @@ link:00._Course_Material/02._Slides/09_Database_Transactions/01._Concurrency_Pro
 link:00._Course_Material/02._Slides/09_Database_Transactions/02._Transactions_MySQL_JDBC.md[Transactions (MySQL / JDBC)]
 // Transactions (MySQL / JDBC)
 
-link:00._Course_Material/02._Slides/09_Database_Transactions/03._Testing_GitHub_Actions.md[Testing GitHub Actions]
+link:00._Course_Material/02._Slides/09_Database_Transactions/03._Threads.md[Transactions (MySQL / JDBC)]
+// Transactions (MySQL / JDBC)
+
+link:00._Course_Material/02._Slides/09_Database_Transactions/04._Testing_GitHub_Actions.md[Testing GitHub Actions]
 // Testing GitHub Actions
 
 a|
