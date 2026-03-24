@@ -1,6 +1,6 @@
 # Mandatory I - Tech Company
 
-**Deadline**: This is mandatory I and the deadline is in Teams. Mandatories are prerequisites to go to the exam.
+**Deadline**: This is mandatory I and the deadline is in `itslearning`. Mandatories are prerequisites to go to the exam.
 
 **Hand-in**: `itslearning`, hand in a link to the SQL file in any Git repository. There will be peer assessment after the deadline. 
 

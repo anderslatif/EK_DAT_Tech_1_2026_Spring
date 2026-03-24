@@ -6,7 +6,9 @@ link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the 
 
 === Mandatories
 
-link:00._Course_Material/01._Assignments/00._Mandatories/tech_company/tech_company.md[Mandatory I - Tech]
+link:00._Course_Material/01._Assignments/00._Mandatories/tech_company/tech_company.md[Mandatory I - Tech Company]
+
+link:00._Course_Material/01._Assignments/00._Mandatories/mandatory_II.md[Mandatory I - Learning Goals]
 
 == Course Preparation
 
@@ -303,47 +305,26 @@ a|
 | 9
 | March 24th
 a|
-// link:00._Course_Material/02._Slides/08_Database_Transactions/01._Concurrency_Problems_in_Databases.md[Concurrency Problems in Databases]
-Concurrency Problems in Databases
+link:00._Course_Material/02._Slides/09_Database_Transactions/01._Concurrency_Problems_in_Databases.md[Concurrency Problems in Databases]
+// Concurrency Problems in Databases
 
-// link:00._Course_Material/02._Slides/09._Threads/01._Threads.md[Threads]
-Threads
+link:00._Course_Material/02._Slides/09_Database_Transactions/02._Transactions_MySQL_JDBC.md[Transactions (MySQL / JDBC)]
+// Transactions (MySQL / JDBC)
 
-// link:00._Course_Material/02._Slides/09._Threads/02._Java_Threads_Basics.md[Java Threads: Basics]
-Java Threads: Basics
-
-// link:00._Course_Material/02._Slides/09._Threads/03._Java_Threads_Priority.md[Java Threads: Priority]
-Java Threads: Priority
-
-// link:00._Course_Material/02._Slides/09._Threads/04._Java_Threads_Locks.md[Java Threads: Locks]
-Java Threads: Locks
-
-// link:00._Course_Material/02._Slides/09._Threads/05._Java_Threads_Counting.md[Java Threads: Counting]
-Java Threads: Counting
-
-// link:00._Course_Material/02._Slides/09._Threads/06._Java_Threads_Deadlock.md[Java Threads: Deadlock]
-Java Threads: Deadlock
-a|
-// Is able to go through scenarios that can cause concurrency problems in databases.
-
-// Can explain what ACID is and why it solves concurrency problems for databases.
-
-// Knows how to define transactions in SQL and JDBC.
-
-// Can recount the two basic ways to create threads in Java: extending `Thread` class and implementing `Runnable` interface.
-
-// Can give examples of concurrency problems in a programming language like Java and how to solve them using locks, synchronization and atomic structures.
+link:00._Course_Material/02._Slides/09_Database_Transactions/03._Testing_GitHub_Actions.md[Testing GitHub Actions]
+// Testing GitHub Actions
 
 a|
-// Do this hands-on:
+Is able to go through scenarios that can cause concurrency problems in databases.
 
-// link:00._Course_Material/02._Slides/08_Database_Transactions/02._Transaction_MySQL_JDBC.md[Transaction MySQL JDBC]
+Can explain what ACID is and why it solves concurrency problems for databases.
 
-// And make sure you understand this:
+Is aware of the possibility to define transactions in SQL and JDBC.
 
-// https://github.com/anderslatif/EK_Java_Threads
+and atomic structures.
 
-// link:00._Course_Material/01._Assignments/08._Final/mandatory_II_learning_goals.md[Mandatory II - Learning Goals]
+a|
+
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -369,4 +350,20 @@ a|
 Project
 a|
 
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 12
+| April 14th
+a|
+No Lecture
+a|
+No Lecture
+a|
+Mandatory II Given:
+
+link:00._Course_Material/01._Assignments/00._Mandatories/mandatory_II.md[Mandatory II - Learning Goals]
+
 |===
+
+
+
