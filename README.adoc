@@ -8,7 +8,7 @@ link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the 
 
 link:00._Course_Material/01._Assignments/00._Mandatories/tech_company/tech_company.md[Mandatory I - Tech Company]
 
-link:00._Course_Material/01._Assignments/00._Mandatories/mandatory_II.md[Mandatory I - Learning Goals]
+link:00._Course_Material/01._Assignments/00._Mandatories/mandatory_II.md[Mandatory II - Learning Goals]
 
 == Course Preparation
 
